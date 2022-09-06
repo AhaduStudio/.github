@@ -3,13 +3,13 @@
 <h2 align="center">Services</h2>
 <h3 align="center">Our employees are very friendly and are ready to assist you at any time during our buisness hours.
 <ol>
-  <li>2x2 Photos</li>
-  <li>3x4 Photos</li>
-  <li>10x15 Photos</li>
-  <li>15x20 Photos</li>
-  <li>20x25 Photos</li>
-  <li>20x30 Photos</li>
-  <li>30x46 Photos</li>
-  <li>60x90 Photos</li>  
+  <li align="center">2x2 Photos</li>
+  <li align="center">3x4 Photos</li>
+  <li align="center">10x15 Photos</li>
+  <li align="center">15x20 Photos</li>
+  <li align="center">20x25 Photos</li>
+  <li align="center">20x30 Photos</li>
+  <li align="center">30x46 Photos</li>
+  <li align="center">60x90 Photos</li>  
 </ol>
 <hr/>
